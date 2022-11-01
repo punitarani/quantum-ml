@@ -6,9 +6,20 @@ Quantum Machine Learning with Qiskit
 
 ### Virtual Environment
 
-Create a virtual environment with Python and activate it.
+#### Create
 
 ```bash
 python3 -m venv quantum-ml.venv
-./quantum-ml.venv/Scripts/activate
+```
+
+#### Activate
+
+```bash
+source quantum-ml.venv/bin/activate
+```
+
+Windows
+
+```bash
+./quantum-ml.venv/Scripts/Activate.ps1
 ```
