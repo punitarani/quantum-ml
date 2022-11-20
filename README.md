@@ -1,6 +1,7 @@
 # Quantum Computing and Machine Learning
 
 `notebooks/` has examples and demos with qiskit.
+
 `notes/` has brief records on theoretical topics.
 
 ## Usage
